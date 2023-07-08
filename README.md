@@ -4,10 +4,10 @@
 
 - 🌏 I’m based in Melbourne 🇦🇺
 - 🔭 Currently working on some personal projects 
-- 🧀 Spitballing Tyscript
+- 🧀 Spitballing Tyscript,Javascript, Python, Swift 
 - 👯 Looking to collaborate on Adventure network projects 
 - 🏋🏼‍♂️ I'm seeking assistance in accelerating my learning curve
-- 👨🏻‍🍳 Ask me about food recipes, on the flipside, I used to a chef 
+- 👨🏻‍🍳 Ask me about food recipes, on the flipside, I used to be a chef 
 - 🚀 Reach me at: denverlopes93@gmail.com
 
 
